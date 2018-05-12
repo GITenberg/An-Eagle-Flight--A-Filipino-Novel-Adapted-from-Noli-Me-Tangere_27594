@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/José_Rizal
     - http://www.joserizal.ph/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27594#An-Eagle-Flight--A-Filipino-Novel-Adapted-from-Noli-Me-Tangere
 gutenberg_issued: '2008-12-22'
 gutenberg_type: Text
 identifiers:
